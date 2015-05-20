@@ -370,7 +370,7 @@
                                     <action selector="indexChanged:" destination="6dU-vZ-Eoy" eventType="valueChanged" id="R06-ck-37p"/>
                                 </connections>
                             </segmentedControl>
-                            <scrollView multipleTouchEnabled="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gs3-WH-jrQ">
+                            <scrollView multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gs3-WH-jrQ">
                                 <rect key="frame" x="-6" y="56" width="333" height="521"/>
                                 <subviews>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MaS-Vj-cNj">
